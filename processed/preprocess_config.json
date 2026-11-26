@@ -1,0 +1,12 @@
+{
+    "image_height": 64,
+    "image_width": 128,
+    "channels": 1,
+    "mean": 0.6727080941200256,
+    "std": 0.2928590178489685,
+    "augmentation": false,
+    "resize": "ResizeWithPadding",
+    "vocab_size": 37,
+    "max_len": 8,
+    "seed": 42
+}
