@@ -43,7 +43,11 @@
   "eos": 2,
   "max_len": 8,
   "img_h": 64,
-  "img_w": 128,
-  "mean": 0.6727080941200256,
-  "std": 0.2928590178489685
+  "img_w": 160,
+  "channels": 1,
+  "mean": 0.7249802947044373,
+  "std": 0.2962827682495117,
+  "resize": "letterbox_fill255",
+  "augmentation": false,
+  "seed": 42
 }
